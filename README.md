@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm 55</h1>
-<h3 align="center">A Software Developer from HongKong</h3>
+<h3 align="center">From HongKong</h3>
 
 <p align="left">
 </p>
